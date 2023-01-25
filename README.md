@@ -33,6 +33,6 @@ Philippa (p.stein@berkeley.edu): Github Manager
 
 
 ## Notes & Resources
-Using github with datahub: [document] [video] 
+Using github with datahub: https://docs.google.com/document/d/1M3XU450v58-zK7xeeSr1rt4QfyGSBQsvk__xt72AKpE/edit
 
 https://url-to-interact.herokuapp.com/ - convert github link to datahub link
