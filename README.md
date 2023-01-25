@@ -36,3 +36,5 @@ Philippa (p.stein@berkeley.edu): Github Manager
 Using github with datahub: https://docs.google.com/document/d/1M3XU450v58-zK7xeeSr1rt4QfyGSBQsvk__xt72AKpE/edit
 
 https://url-to-interact.herokuapp.com/ - convert github link to datahub link
+
+OH: THU 11am Zoom on Syllabus
