@@ -23,9 +23,9 @@ Students will construct datasets on the distribution of characteristics in the w
 ## Project Logistics
 ### Members, Contact & Primary Roles
 
-Christine (@berkeley.edu): Project Manager
-Philippa (p.stein@berkeley.edu): Github Manager
-Victor Keroles (email: vkeroles@berkeley.edu; github:vkeroles)
+- Christine (@berkeley.edu): Project Manager
+- Philippa (p.stein@berkeley.edu): Github Manager
+- Victor Keroles (email: vkeroles@berkeley.edu; github:vkeroles)
 
 ### Due Dates
 - Code Draft (02/08)
