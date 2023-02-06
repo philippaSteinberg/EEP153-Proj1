@@ -25,6 +25,7 @@ Students will construct datasets on the distribution of characteristics in the w
 
 Christine (@berkeley.edu): Project Manager
 Philippa (p.stein@berkeley.edu): Github Manager
+Victor Keroles (email: vkeroles@berkeley.edu; github:vkeroles)
 
 ### Due Dates
 - Code Draft (02/08)
