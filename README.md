@@ -1,36 +1,23 @@
-# EEP153-Proj1: Population & Food Supply
+# EEP153 Project 1: Population & Food Supply (Team Ma Yinchu)
 
-## Project 1 Description
+## Topic & Goals
 
-Course Syllabus: https://github.com/ligonteaching/EEP153_Materials/blob/master/README.md
+Our project focused on analyzing population dynamics and differnces in Africa, drawing on inspiration from Nunn's research on the long term impacts of slavery. 
 
-**Population & Food Supply**
+Our project goals included:
 
-Students will construct datasets on the distribution of characteristics in the world population, including measures of resources, and the age and sex composition of the world population. A separate dataset allows us to think about food supply.
+    [Goal 1] Comparing popultaion dynamics over time and againts different regions within Africa 
 
+    [Goal 2] Comparing economic indicators for these same regions over time
 
-**Readings**
-- Malthus An Essay of the Principle of Population (1798)
-- de Janvry-Sadoulet (2015), Chapter 11 of Development Economics
-- Fuglie (2012), https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/
+Countries of interest: 
 
-## Project 1 Topic
+AFE (South and East Africa): Angola, Burundi, Botswana, Democratic Republic of Congo, Comoros, Eritrea, Ethiopia, Kenya, Lesotho, Madagascar, Mozambique, Mauritius, Malawi, Namibia, Rwanda, Sudan, Somalia, South Sudam, São Tomé and Príncipe, Eswatini, Seychelles, Tanzania, Uganda, South Africa, Zambia, Zimbabwe (26 countries)
 
-- Countries of interest: 
-We are researching the continent of Africa. Specifically,the regions AFE and AFW.
-
-
-AFE: Angola, Burundi, Botswana, Democratic Republic of Congo, Comoros, Eritrea, Ethiopia, Kenya, Lesotho, Madagascar, Mozambique, Mauritius, Malawi, Namibia, Rwanda, Sudan, Somalia, South Sudam, São Tomé and Príncipe, Eswatini, Seychelles, Tanzania, Uganda, South Africa, Zambia, Zimbabwe (26 countries)
-
-
-AFW: Benin, Burkina Faso, Central African Republic, Côte d’Ivoire, Cameroon, Republic of Congo, Cabo Verde, Gabon, Ghana, Guinea, The Gambia, Guinea-Bissau, Equatorial Guinea, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Chad, Togo (22 countries)
-- Questions of interest: 
-
-
-- Data set of interest: ...
+AFW (North and West Africa): Benin, Burkina Faso, Central African Republic, Côte d’Ivoire, Cameroon, Republic of Congo, Cabo Verde, Gabon, Ghana, Guinea, The Gambia, Guinea-Bissau, Equatorial Guinea, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Chad, Togo (22 countries)
 
 ## Project Logistics
-### Members, Contact & Primary Roles
+### Meet Team Ma Yinchu
 
 - Christine Chiang, Project Manager (email: christine@berkeley.edu; github: @oghomiep)
 - Philippa Steinberg, Github Manager (email: p.stein@berkeley.edu; github: @philippaSteinberg)
@@ -44,10 +31,13 @@ AFW: Benin, Burkina Faso, Central African Republic, Côte d’Ivoire, Cameroon, 
 - Code Review (02/10)
 - Final Presentation (02/13)
 
-
 ## Notes & Resources
 Using github with datahub: https://docs.google.com/document/d/1M3XU450v58-zK7xeeSr1rt4QfyGSBQsvk__xt72AKpE/edit
-
+Course Syllabus: https://github.com/ligonteaching/EEP153_Materials/blob/master/README.md
 https://url-to-interact.herokuapp.com/ - convert github link to datahub link
-
 OH: THU 11am Zoom on Syllabus
+
+**Readings**
+- Malthus An Essay of the Principle of Population (1798)
+- de Janvry-Sadoulet (2015), Chapter 11 of Development Economics
+- Fuglie (2012), https://www.ers.usda.gov/amber-waves/2012/september/global-agriculture/
