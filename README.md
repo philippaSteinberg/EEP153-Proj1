@@ -16,6 +16,37 @@ AFE (South and East Africa): Angola, Burundi, Botswana, Democratic Republic of C
 
 AFW (North and West Africa): Benin, Burkina Faso, Central African Republic, Côte d’Ivoire, Cameroon, Republic of Congo, Cabo Verde, Gabon, Ghana, Guinea, The Gambia, Guinea-Bissau, Equatorial Guinea, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Chad, Togo (22 countries)
 
+Questions of Interest:
+
+- Population growth rates AFE vs AFW
+
+- Plot on nutritional density/affordable diet
+
+- Import/export plot
+
+- GDP plot
+
+- Population Density plot
+
+
+
+DataSet of interest:
+
+- 5: Subnational Malnutrition Database
+
+
+- 11: Africa Development Indicators
+
+
+- 16: Health Nutrition and Population Statistics
+
+
+- 40: Population estimates and projections
+
+
+
+
+
 ## Project Logistics
 ### Meet Team Ma Yinchu
 
