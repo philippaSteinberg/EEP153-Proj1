@@ -6,7 +6,7 @@ Our project focused on analyzing population dynamics and differnces in Africa, d
 
 Our project goals included:
 
-    [Goal 1] Comparing popultaion dynamics over time and againts different regions within Africa 
+    [Goal 1] Comparing population dynamics over time and againts different regions within Africa 
 
     [Goal 2] Comparing economic indicators for these same regions over time
 
