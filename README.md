@@ -16,8 +16,17 @@ Students will construct datasets on the distribution of characteristics in the w
 
 ## Project 1 Topic
 
-- Countries of interest: ...
-- Questions of interest: ...
+- Countries of interest: 
+We are researching the continent of Africa. Specifically,the regions AFE and AFW.
+
+
+AFE: Angola, Burundi, Botswana, Democratic Republic of Congo, Comoros, Eritrea, Ethiopia, Kenya, Lesotho, Madagascar, Mozambique, Mauritius, Malawi, Namibia, Rwanda, Sudan, Somalia, South Sudam, São Tomé and Príncipe, Eswatini, Seychelles, Tanzania, Uganda, South Africa, Zambia, Zimbabwe (26 countries)
+
+
+AFW: Benin, Burkina Faso, Central African Republic, Côte d’Ivoire, Cameroon, Republic of Congo, Cabo Verde, Gabon, Ghana, Guinea, The Gambia, Guinea-Bissau, Equatorial Guinea, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Chad, Togo (22 countries)
+- Questions of interest: 
+
+
 - Data set of interest: ...
 
 ## Project Logistics
