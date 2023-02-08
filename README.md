@@ -50,7 +50,7 @@ DataSet of interest:
 ## Project Logistics
 ### Meet Team Ma Yinchu
 
-- Christine Chiang, Project Manager (email: christine@berkeley.edu; github: @oghomiep)
+- Christine Chiang, Project Manager (email: cschiang@berkeley.edu; github: @oghomiep)
 - Philippa Steinberg, Github Manager (email: p.stein@berkeley.edu; github: @philippaSteinberg)
 - Victor Keroles (email: vkeroles@berkeley.edu; github: @vkeroles)
 - Eddie Guo (email: eddieguo@berkeley.edu; github: @eddieguo-1128)
