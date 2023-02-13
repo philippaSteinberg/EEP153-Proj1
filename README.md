@@ -8,25 +8,29 @@ Our project goals included:
 
     [Goal 1] Comparing population dynamics over time and against different regions within Africa 
 
-    [Goal 2] Comparing economic indicators for these same regions over time
+    [Goal 2] Comparing economic indicators and relating changes in agricultural imports/exports to population for these same regions over time
 
 Countries of interest: 
+
+AFE and AFW are used to represent all of Africa to draw comparisons with other countries. 
 
 AFE (South and East Africa): Angola, Burundi, Botswana, Democratic Republic of Congo, Comoros, Eritrea, Ethiopia, Kenya, Lesotho, Madagascar, Mozambique, Mauritius, Malawi, Namibia, Rwanda, Sudan, Somalia, South Sudam, São Tomé and Príncipe, Eswatini, Seychelles, Tanzania, Uganda, South Africa, Zambia, Zimbabwe (26 countries)
 
 AFW (North and West Africa): Benin, Burkina Faso, Central African Republic, Côte d’Ivoire, Cameroon, Republic of Congo, Cabo Verde, Gabon, Ghana, Guinea, The Gambia, Guinea-Bissau, Equatorial Guinea, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Chad, Togo (22 countries)
 
+Countries used on their own: Nigeria, Chad, Gabon, Libya, South Africa
+
 Questions of Interest:
 
-- Population growth rates AFE vs AFW
+- Population pyramid on select countries
 
-- Plot on nutritional density/affordable diet
+- Animated opulation pyramid on select regions/countries for comparison 
 
-- Import/export plot
+- Import/export plot on select countries
 
-- GDP plot
+- GDP per capita plot on select countries
 
-- Population Density plot
+- Continent Map: Population Density & GDP Per Capita
 
 
 
