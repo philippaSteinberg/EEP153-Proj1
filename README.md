@@ -24,7 +24,7 @@ Questions of Interest:
 
 - Population pyramid on select countries
 
-- Animated opulation pyramid on select regions/countries for comparison 
+- Animated population pyramid on select regions/countries for comparison 
 
 - Import/export plot on select countries
 
